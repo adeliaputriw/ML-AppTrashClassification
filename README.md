@@ -1,1 +1,2 @@
-# ML-AppTrashClassification
+# 📊 Model dari Aplikasi Klasifikasi Sampah
+
